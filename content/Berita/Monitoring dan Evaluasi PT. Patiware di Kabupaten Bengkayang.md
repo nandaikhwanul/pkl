@@ -1,0 +1,7 @@
+---
+author: disbunnak
+title: "Monitoring dan Evaluasi PT. Patiware di Kabupaten Bengkayang"
+date: 2024-08-29
+thumbnail: /Berita/thumbnails/compressed_8KD90SoLb3r8GTPcEvnFu1PcH7jBDYDCshRLU8Zo.jpg
+---
+<p><img src="/images/Qz2kqgQbnqI0S59F89w4.jpeg" width="640" height="444" alt="" /><br />Kepala Dinas Perkebunan dan Peternakan Provinsi Kalbar, Heronimus Hero melakukan monitoring dan evaluasi ke PT. Patiware di Kabupaten Bengkayang, Kamis (29/8/2024).<br /><br />"Kegiatan ini dilakukan dalam rangka pengawalan pembangunan kegiatan perkebunan besar di Kalbar terhadap perusahaan perkebunan," ujarnya. <br /><br />Dalam kesempatan ini Kadisbunak Kalbar mengingatkan kembali hal-hal terkait perizinan, good agriculture practise dan pengelolaan kelapa sawit berkelanjutan kepada pihak perusahaan.<br /><br />"Di mana manajemen perkebunan kelapa sawit meliputi perencanaan, pengorganisasian, penggerakkan, dan pengawasan," jelas dia.<br /><br />Sementara untuk perencanaan perkebunan termasuk persiapan lahan, penataan kebun, penentuan tata batas, imas, tumbang, dan rumpuk. <br /><br />Pengorganisasian meliputi penerapan teknis budidaya, seperti pemupukan, pengaturan tunas, dan pengendalian gulma. <br /><br />Penggerakkan meliputi pemeliharaan tanaman, seperti pemotongan tandan buah matang, pengutipan berondolan, pemotongan pelepah, dan pengangkutan buah ke tempat pengumpulan hasil. Terkahir, pengawasan yang meliputi pemanenan yang benar dan pelaporan hasil kerja.</p>

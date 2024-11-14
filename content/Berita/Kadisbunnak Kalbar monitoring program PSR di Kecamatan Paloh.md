@@ -1,0 +1,8 @@
+---
+author: disbunnak
+title: "Kadisbunnak Kalbar monitoring program PSR di Kecamatan Paloh"
+date: 2024-08-13
+thumbnail: /Berita/thumbnails/compressed_MEIAlJWayEZaytzPHb8ganu0Jb7aZiCtinh3dLCn.jpg
+---
+<p><img src="/images/ZNmKVfwd972B6RTDs1eV.jpeg" width="582" height="480" alt="" /></p>
+<p>Kepala Dinas Perkebunan dan Peternakan Provinsi Kalbar, Heronimus Hero melakukan monitoring fisik tanaman program Peremajaan Sawit Rakyat (PSR) di Kecamatan Paloh, Kabupaten Sambas, 13 Agustus 2024 <br /><br />Lokasi monitoring di Kebun Poktan Sinar Muda dengan luas sekitar 76 hekatre yang ditanam pada Agustus 2020 lalu. Saat ini kondisi tanaman sangat baik dan sudah mulai produksi. Poktan Sinar Muda diketuai Poktan Sudarno Acoon. <br /><br />"Melalui Program PSR diharapkan produktivitas tanaman sawit pekebun&nbsp; bisa meningkat karena menggunakan bibit yg berkualitas peningkatan produktivitas sawit pasti akan meningkatkan pendapatan pekebun," ucap dia.<br /><br />Dalam kesempatan itu, dilakukan juga monitoring dan pembinaan usaha perkebunan di PT. Buluh Cawang Plantation, Paloh.<br /><br />Dari kunjungan tersebut ditemukan penyakit ganoderma yang menjadi salah satu tantangan dalam budidaya kelapa sawit. Penyakit yang disebabkan jamur tersebut menyerang tanaman produktif sekitar 10 - 20 tahun. <br /><br />"Akibat serangan bisa menyebabkan produktivitas menurun dan dalam 3 - 5 tahun tanaman akan mati. Penularannya sangat cepat bahkan bisa menyebar dalam satu blok tanaman dalam waktu yg sangat singkat. Perusahaan harus memberi perhatian khusus&nbsp; untuk mencegah&nbsp; penyakit Ganoderma ini melalui perlakuan tricoderma atau teknologi pengendalian lainnya," jelas dia.</p>

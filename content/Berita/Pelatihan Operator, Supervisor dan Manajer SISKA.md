@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Pelatihan Operator, Supervisor dan Manajer SISKA"
+date: 2023-10-20
+thumbnail: /Berita/thumbnails/6VCNvXI8cS4GtzE6tRWcMc4tu00aKsALaTkBrTKw.png
+---
+<p><img src="/images/FosmYc3l52crYXkbFyTW.png" alt="" width="1000" height="498" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Dinas Perkebunan dan Peternakan Provinsi Kalbar menggelar pelatihan Operator, Supervisor dan Manajer Sistem Integrasi Sapi Kelapa Sawit (SISKA) yang diselenggarakan dari 8 Oktober - 26 Oktober 2024.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Kegiatan pelatihan tersebut bertujuan untuk meningkatkan kapasitas SDM SISKA pada tiga tingkatan kompetensi yang paling dasar.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Pelatihan dibagi dalam tiga tahapan, pembekalan klasikal pada 8 - 11 Oktober 2023 di Hotel 95 Pontianak, magang di lokasi SISKA pada 11 - 24 Oktober 2023 dan bedah kasus penggembalaan sapi di lokasi kebun (klasikal) pada 24 - 26 Oktober 2023.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Pada sesi pembekalan klasikal dibuka oleh Kepala Dinas Perkebunan dan Peternakan Provinsi Kalbar, Heronimus Hero. Peserta dibekali secara teori oleh beberapa narasumber yang berasal dari unsur akademis, praktisi dan birokrasi dengan serangkaian materi tentang pembiakan sapi, perkebunan, serta pola integrasi sapi-sawit yang terencana.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Saat magang, teori-teori tersebut dapat dipraktekkan peserta, serta mitigasi risiko penggembalaan sapi di kebun. Ke depan, melalui pelaihan ini integrasi dapat diterima dan berkelanjutan baik dari sisi usaha peternakan maupun perkebunan," kata Heronimus Hero.</p>

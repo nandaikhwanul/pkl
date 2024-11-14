@@ -1,0 +1,8 @@
+---
+author: disbunnak
+title: "Pantau pemanfaatan cadangan jagung pemerintah di Singkawang"
+date: 2024-03-12 09:52:39
+thumbnail: /Berita/thumbnails/compressed_ab0tI8qftxrKq607OxGWLagmstbICcAVlR6aKZrW.jpg
+---
+<p><img src="/images/Q7lnG2k1sra6K7IuF0mE.jpeg" alt="" width="1366" height="1025" /></p>
+<p>Kepala Dinas Perkebunan dan Peternakan (<span class="nanospell-typo" data-cke-bogus="true">Disbunnak</span>) Provinsi Kalbar, <span class="nanospell-typo" data-cke-bogus="true">Heronimus</span> Hero melakukan pemantauan pemanfaatan Cadangan Jagung Pemerintah (<span class="nanospell-typo" data-cke-bogus="true">CJP</span>) untuk peternak ayam <span class="nanospell-typo" data-cke-bogus="true">layer</span> di salah satu peternakan <span class="nanospell-typo" data-cke-bogus="true">close</span> <span class="nanospell-typo" data-cke-bogus="true">house</span> di Kota Singkawang, Selasa (06/02/2024).<br /><br />"<span class="nanospell-typo" data-cke-bogus="true">CJP</span> sangat signifikan membantu efisiensi biaya produksi telur karena porsi terbesar biaya produksi adalah pakan ternak yang mencapai 60 persen berasal dari jagung," kata dia.<br /><br />Ia menjelaskan bahwa harga <span class="nanospell-typo" data-cke-bogus="true">CJP</span> yang jauh lebih murah yaitu Rp5.500 per kilogram berpengaruh besar dalam menekan biaya produksi.<br /><br />"Dengan demikian bisa menekan harga jual telur di tingkat konsumen. Saat ini harga telur di tingkat produsen Rp26.000&nbsp; per kilogram," kata di.<br /><br />Menurutnya dengan biaya produksi relatif lebih rendah berpengaruh juga pada harga jual yang didapatkan oleh masyarakat.<br /><br />"Dengan begitu inflasi dari komoditas telur bisa terkendali," jelas dia.</p>

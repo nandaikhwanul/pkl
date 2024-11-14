@@ -1,0 +1,7 @@
+---
+author: disbunnak
+title: "Disbunnak Kalbar gelar koordinasi pengawasan dan Peredaran Benih Perkebunan"
+date: 2024-08-22
+thumbnail: /Berita/thumbnails/compressed_VUzq33x4LZmuG03F4BDGUjx1V6yuBeVFGSfjttyq.jpg
+---
+<p><img src="/images/9smE0qtsFEZAeRX54cHE.jpeg" width="640" height="480" alt="" /><br />UPT Pengawasan dan Sertifikasi Benih Perkebunan , Dinas Perkebunan dan Peternakan (Disbunnak) Provinsi Kalbar menggelar Koordinasi Pengawasan dan Peredaran Benih Perkebunan 2024 di Kota Pontianak, Kamis (22/08/2024).<br /><br />Kegiatan yang bertemakan tema Bimbingan Teknis Penguatan Pengawasan Peredaran Benih kepada Petugas Pengawas Benih Tanaman dan Peningkatan Mutu Pengawasan Peredaran Benih&nbsp; tersebut dibuka langsung oleh Kadisbunnak Provinsi Kalbar, Heronimus Hero.<br /><br />Dalam kesempatan itu ia mengatakan bahwa sebagai kegiatan tersebut ajang pertemuan untuk menambah wawasan dan pengetahuan.<br /><br />"Kemudian dengan kegiatan ini juga bisa mencari solusi pemecahan permasalahan untuk meningkatkan kualitas pengawasan benih," papar dia.<br /><br />Ia terus mendorong pengawas benih tanaman dan peningkatan mutu pengawasan peredaran benih di Kalbar semakin maksimal.<br /><br />"Dengan hal itu program peningkatan produksi dan produktivitas tanaman perkebunan di Kalbar bisa terwujud," jelas dia.</p>

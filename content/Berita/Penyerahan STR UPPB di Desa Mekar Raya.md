@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Penyerahan STR UPPB di Desa Mekar Raya"
+date: 2023-10-04
+thumbnail: /Berita/thumbnails/CCZxxfql7k26Xpq7d7GPlMCiDtqddKPce80jG3cP.jpg
+---
+<p><img src="/images/fxOYpLHOdtYnMqzwMVPh.jpg" alt="" width="1000" height="607" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Dinas Perkebunan dan Peternakan (Disbunnak) Provinsi Kalbar menyerahkan Surat Tanda Registrasi (STR) Unit Pengolahan dan Pemasaran BOKAR (UPPB) Juring Raya di Desa Mekar Raya, Kecamatan Simpang Dua, Kabupaten Ketapang.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Disbunnak Kalbar&nbsp; bekerjasama dengan Disbunnak Kabupaten Ketapang serta di didukung oleh mitra pembangunan Tropenbos Indonesia telah melakukan fasilitasi pembentukan kelembagaan petani/kelompok tani Bokar dengan membentuk organisasi non formal yaitu UPPB Juring Raya.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Salah satu tujuan dari program ini adalah untuk menghasilkan bokar bersih secara nasional melalui registrasi kelembagaan UPPB.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Penyerahan STR ini dilaksanakan Selasa 3 Oktober 2023 di Sekretariat UPPB Juring Raya yang dihadiri oleh Disbunak Prov. Kalbar, Distanakbun Kab. Ketapang, Camat Simpang Dua, Kepala Desa Mekar Raya, anggota UPPB Juring Raya dan Tropenbos Indonesia serta pimpinan crumb rubber PT. Bintang Borneo Sejahtera.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Pada kesempatan ini juga dilakukan pembinaan kepada Kelompok UPPB Juring Raya untuk terus meningkatkan produksi karet dengan kualitas baik.</p>

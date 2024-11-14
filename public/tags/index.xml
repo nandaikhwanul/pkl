@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Label - Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat</title>
+        <link>//localhost:1313/tags/</link>
+        <description>Tags - Label - Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><atom:link href="//localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

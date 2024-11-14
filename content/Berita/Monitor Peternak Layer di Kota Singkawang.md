@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Monitor Peternak Layer di Kota Singkawang"
+date: 2023-10-20
+thumbnail: /Berita/thumbnails/cmae1RfbYMmd7yvKcyYSBgjlWxkVV7fIzHd5Tspz.jpg
+---
+<p><img src="/images/zwMqKSmyEioyvXst4RT3.jpg" alt="" width="1000" height="750" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Kepala Dinas Perkebunan dan Peternakan Provinsi Kalbar, Heronimus Hero melakukan monitor peternal layer di Kota Singkawang, Senin (16/10/2023).</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Monitor tersebut dilakukan pada CV. Sumber Protein. Perusahaan tersebut memiliki &nbsp;kapasitas produksi sekitar 108 ribu telur per hari dari populasi layer sekitar 110 ribu ekor.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Hadirnya CV. Sumber Protein menjadi salah satu sumber produksi telur di Kalbar yang menjaga stabilitas pasokan dan ketersediaan telur di Kalbar," ujarnya.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Ketersediaan telur menjadi penting bagi daerah karena telur ayam menjadi sumber dari asam amino, kolin, dan omega-3. Telur dengan kandungan nutrisi dapat mendukung pertumbuhan dan perkembangan saraf serta jaringan otak, terutama pada anak. Maka dari itu, anak-anak memang disarankan untuk mengkonsumsi telur sebagai lauk, asal tidak boleh berlebihan.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Satu butir telur ayam mengandung sekitar 7 gram protein. Kandungan vitamin A, D dan E terdapat dalam kuning telur. Telur memang dikenal menjadi salah satu dari sedikit makanan yang mengandung vitamin D. Satu kuning telur besar mengandung sekitar 60 kalori dan putih telur mengandung sekitar 15 kalori.</p>

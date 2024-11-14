@@ -1,0 +1,712 @@
+
+
+baseurl = ""
+metaDataFormat = "yaml"
+title = "Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat"
+theme = "LoveIt"
+DefaultContentLanguage = "id"
+DefaultContentLanguageInSubdir = false
+contentDir = "content" #English"
+weight = 1
+languageName = "Indonesia"
+[languages.id.params]
+introTitle = ""
+introSubtitle = "Website Resmi Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat"
+introPhoto = "/picture.jpg"
+logo = "/logo.png"
+name = "Top Post"
+url = "/en/blog/emoji-support/"
+weight = 4
+[params]
+header = { title = "Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat" }
+domain = 'disbunnak.kalbarprov.go.id'
+phone = "(0561) 766038"
+address = "Jl. M. Hambal No. 3 Pontianak Kalimantan Barat"
+email = "disbunnak@kalbarprov.go.id"
+darkModeToggle = true
+enableSearch = true
+searchKeys = "["
+copyright = "Copyright © 2024"
+favicon = "/favicon.svg"
+ascentColor = "bg-defaultColor"
+frontBundle = "Info DISBUNAK"
+frontBundle2 = "Berita"
+hideMeta = false
+hideOtherLanguages = false
+toc = true
+hidePageThumbnail = false
+introTitle = "Dinas Komunikasi dan Informatika"
+introSubtitle = "Website resmi Dinas Komunikasi dan Informatika provinsi Kalimantan Barat"
+[params.comments]
+system = "giscus"
+repo = ""
+repoid = ""
+category = ""
+categoryid = ""
+mapping = ""
+strict = ""
+reactionsenabled = ""
+emitmetadata = ""
+inputposition = ""
+theme = ""
+[params.homepage.social]
+title = "Follow me"
+description = "I work on everything coding and tweet developer memes"
+[build]
+writeStats = true
+[markup]
+[markup.highlight]
+style = "dracula"
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'profil'
+name = "PROFIL"
+url = ""
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'kepegawaian'
+name = "KEPEGAWAIAN"
+url = ""
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'kinerja'
+name = "KINERJA"
+url = ""
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'pelayanan informasi'
+name = "PELAYANAN INFORMASI"
+url = ""
+weight = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'struktur organisasi'
+name = "Struktur Organisasi"
+parent = "profil"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/struktur-organisasi"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'tugas pokok & fungsi'
+name = "Tugas Pokok & Fungsi"
+parent = "profil"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/tugas-pokok-dan-fungsi"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'profil pimpinan'
+name = "Profil Pimpinan"
+parent = "profil"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/profil-pimpinan"
+weight = 4
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'profil singkat'
+name = "Profil Singkat"
+parent = "profil"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/profil-singkat"
+weight = 6
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sop'
+name = "SOP"
+parent = "kepegawaian"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/sop-dinas-perkebunan-dan-peternakan"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'statistik kepegawaian'
+name = "Statistik Kepegawaian"
+parent = "kepegawaian"
+url = "https://lookerstudio.google.com/reporting/1b9dd9ff-bd83-449b-a601-f3d5cb65f0d7/page/ioxzC"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'statistik keuangan'
+name = "Statistik Keuangan"
+parent = "kepegawaian"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/statistik-keuangan"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'lhkpn'
+name = "LHKPN"
+parent = "kepegawaian"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/lhkpn"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan skm'
+name = "Laporan SKM"
+parent = "kepegawaian"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-survey-kepuasan-masyarakat"
+weight = 5
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'renstra'
+name = "RENSTRA"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/renstra"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'renja'
+name = "RENJA"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/renja"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'rka'
+name = "RKA"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/rka-dinas-perkebunan-dan-peternakan"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'dpa'
+name = "DPA"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/dpa-dinas-perkebunan-dan-peternakan"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan kinerja'
+name = "Laporan Kinerja"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-kinerja"
+weight = 5
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan keuangan'
+name = "Laporan Keuangan"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-keuangan"
+weight = 6
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan tahunan'
+name = "Laporan Tahunan"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-tahunan"
+weight = 7
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan monev'
+name = "Laporan Monev"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-monev"
+weight = 8
+
+
+
+[[languages.id.menu.main]]
+identifier = 'rencana umum pengadaan'
+name = "Rencana Umum Pengadaan"
+parent = "kinerja"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/rencana-umum-pengadaan"
+weight = 9
+
+
+
+[[languages.id.menu.main]]
+identifier = 'inventaris bmn'
+name = "Inventaris BMN"
+parent = "kinerja"
+url = "https://drive.google.com/file/d/1sXcY_6JXmB303OipfAdlQrBOKSpUgoyp/view"
+weight = 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'maklumat pelayanan'
+name = "Maklumat Pelayanan"
+parent = "pelayanan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/maklumat-pelayanan"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'form permohonan informasi'
+name = "Form Permohonan Informasi"
+parent = "pelayanan informasi"
+url = "https://kalbar.link/InformasiDisbunnak"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'form pengajuan keberatan'
+name = "Form Pengajuan Keberatan"
+parent = "pelayanan informasi"
+url = "https://kalbar.link/KeberatanDisbunnak"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'form pengaduan'
+name = "Form Pengaduan"
+parent = "pelayanan informasi"
+url = "https://kalbar.link/PengaduanDisbunnak"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'pengajuan permohonan penyelesaian sengketa ke ki'
+name = "Pengajuan Permohonan Penyelesaian Sengketa ke KI"
+parent = "pelayanan informasi"
+url = "https://www.komisiinformasikalbar.or.id/permohonan-penyelesaian-sengketa-informasi/"
+weight = 5
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'siska membara'
+name = "SISKA MEMBARA"
+parent = "pelayanan informasi"
+url = "https://siska-disbunnak.kalbarprov.go.id/"
+weight = 7
+
+
+
+[[languages.id.menu.main]]
+identifier = 'manelawan'
+name = "MANELAWAN"
+parent = "pelayanan informasi"
+url = "https://sites.google.com/view/mane-lawan-disbunnak/beranda"
+weight = 8
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sidikh tbs'
+name = "SIDIKH TBS"
+parent = "pelayanan informasi"
+url = "https://sidikhtbs-disbunnak.kalbarprov.go.id/"
+weight = 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'visi, misi & motto'
+name = "Visi, Misi & Motto"
+parent = "profil"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/visi-misi-dan-motto"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'link terkait'
+name = "LINK TERKAIT"
+url = ""
+weight = 7
+
+
+
+[[languages.id.menu.main]]
+identifier = 'pemprov kalbar'
+name = "Pemprov Kalbar"
+parent = "link terkait"
+url = "https://kalbarprov.go.id/"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sipp'
+name = "SIPP"
+parent = "link terkait"
+url = "https://sippn.menpan.go.id/"
+weight = 2
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'satu data kalbar'
+name = "Satu Data Kalbar"
+parent = "link terkait"
+url = "https://data.kalbarprov.go.id/"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sikedip'
+name = "Sikedip"
+parent = "link terkait"
+url = "https://sikedip.kalbarprov.go.id/depan"
+weight = 5
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sirup'
+name = "SIRUP"
+parent = "link terkait"
+url = "https://sirup.lkpp.go.id/sirup/loginctr/index"
+weight = 6
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sekam padi'
+name = "SEKAM PADI"
+parent = "link terkait"
+url = "https://sekampadi.kalbarprov.go.id/survey/show_survey_opd/RmVrYVBIZVdtdDlFRlhqODdOV1FJZz09"
+weight = 7
+
+
+
+[[languages.id.menu.main]]
+identifier = 'upt. pelkeswan, kesmavet & klinik hewan'
+name = "UPT. Pelkeswan, Kesmavet & Klinik Hewan"
+parent = "link terkait"
+url = "https://www.uptpelkeswan-kalbar.com/"
+weight = 8
+
+
+
+[[languages.id.menu.main]]
+identifier = 'upt. psbp'
+name = "UPT. PSBP"
+parent = "link terkait"
+url = "https://upsbp.kalbarprov.go.id"
+weight = 9
+
+
+
+[[languages.id.menu.main]]
+identifier = 'laporan ppid'
+name = "Laporan PPID"
+parent = "kepegawaian"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/laporan-ppid-pelaksana"
+weight = 6
+
+
+
+[[languages.id.menu.main]]
+identifier = 'ppid'
+name = "PPID"
+url = "https://sidikhtbs.id/ppid/"
+weight = 6
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'media dan informasi'
+name = "MEDIA DAN INFORMASI"
+url = ""
+weight = 5
+
+
+
+[[languages.id.menu.main]]
+identifier = 'berita'
+name = "Berita"
+parent = "media dan informasi"
+url = "https://disbunnak.kalbarprov.go.id/berita/"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'media'
+name = "Media"
+parent = "media dan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/majalah-fokus-disbunak"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'data & informasi'
+name = "Data & Informasi"
+parent = "media dan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/data-dan-informasi"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'buku tamu'
+name = "Buku Tamu"
+parent = "link terkait"
+url = "https://bukutamu.kalbarprov.go.id/login"
+weight = 10
+
+
+
+[[languages.id.menu.main]]
+identifier = 'lapor'
+name = "Lapor"
+parent = "link terkait"
+url = "https://www.lapor.go.id"
+weight = 3
+
+
+
+[[languages.id.menu.main]]
+identifier = 'form ppid utama'
+name = "Form PPID Utama"
+parent = "pelayanan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/form-ppid-utama"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'galeri disbunak'
+name = "Galeri DISBUNAK"
+parent = "media dan informasi"
+url = "https://disbunnak.kalbarprov.go.id/galeri-disbunak/"
+weight = 4
+
+
+
+[[languages.id.menu.main]]
+identifier = 'lips nkv'
+name = "LIPS NKV"
+parent = "pelayanan informasi"
+url = "https://sites.google.com/view/lips-nkv"
+weight = 9
+
+
+
+[[languages.id.menu.main]]
+identifier = 'layanan disbunak'
+name = "Layanan Disbunak"
+parent = "pelayanan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/layanan-disbunak"
+weight = 10
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sip dok'
+name = "SiP DoK"
+parent = "pelayanan informasi"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/sip-dok"
+weight = 10
+
+
+
+[[languages.id.menu.main]]
+identifier = 'profil ppid'
+name = "Profil PPID"
+parent = "ppid"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/profil-ppid"
+weight = 1
+
+
+
+[[languages.id.menu.main]]
+identifier = 'tata cara'
+name = "Tata Cara"
+parent = "ppid"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/tata-cara"
+weight = 2
+
+
+
+[[languages.id.menu.main]]
+identifier = 'sop'
+name = "SOP"
+parent = "ppid"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/sop"
+weight = 3
+
+
+
+
+
+[[languages.id.menu.main]]
+identifier = 'informasi ppid'
+name = "Informasi PPID"
+parent = "ppid"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/informasi-ppid"
+weight = 5
+
+
+
+[[languages.id.menu.main]]
+identifier = 'regulasi'
+name = "Regulasi"
+parent = "ppid"
+url = "https://disbunnak.kalbarprov.go.id/halaman-web/regulasi"
+weight = 4
+
+
+[[params.homepage.social.icons]]
+website = "twitter"
+url = "https://x.com/disbunnakkalbar?t=CHqZPo-8nPqhY7yOE4A4fg&s=09"
+
+[[params.homepage.social.icons]]
+website = "tiktok"
+url = "https://www.tiktok.com/@disbunnakkalbar"
+
+[[params.homepage.social.icons]]
+website = "youtube"
+url = "https://www.youtube.com/channel/UCkhAl7v70Ukq_LzkBnTjSfg"
+
+[[params.homepage.social.icons]]
+website = "instagram"
+url = "https://www.instagram.com/disbunnakkalbar?igshid=YmMyMTA2M2Y%3D"
+
+[[params.homepage.social.icons]]
+website = "facebook"
+url = "https://www.facebook.com/people/Dinas-Perkebunan-dan-Peternakan-Provinsi-Kalbar/100064492399613/"
+
+
+
+
+
+[[params.sliders.images]]
+url = "1.png"
+extension = "png"
+
+
+[[params.sliders.images]]
+url = "2.png"
+extension = "png"
+
+
+[[params.sliders.images]]
+url = "3.png"
+extension = "png"
+
+
+[[params.sliders.images]]
+url = "Untitled-1_page-0001.jpg"
+extension = "jpg"
+
+
+[[params.sliders.images]]
+url = "sekampadi.jpg"
+extension = "jpg"

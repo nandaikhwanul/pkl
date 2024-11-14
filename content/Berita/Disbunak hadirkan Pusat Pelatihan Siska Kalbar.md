@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Disbunak hadirkan Pusat Pelatihan Siska Kalbar"
+date: 2023-04-09
+thumbnail: /Berita/thumbnails/TBFmJ6GrLP05hceP2oIm904lxNZB2Z1ZHH99xnrj.jpg
+---
+<p><img src="/images/I9HdT4lYedO0yGUQZtJW.jpg" alt="" width="1000" height="750" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Kepala Dinas Perkebunan dan Peternakan (Disbunnak) Kalbar, Heronimus Hero &nbsp;melakukan kunjungan ke pusat pelatihan Sistem Integrasi Sawit Sapi (Siska) Kalbar di Kecamatan Sengah Temila, Kabupaten Landak, Selasa (4/4/2023).</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Kalbar membuktikan kesiapannya untuk mengadopsi teknologi Siska dengan menyediakan Pusat Pelatihan Sisk Kalbar di tahun ini.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Disbunnak Provinsi Kalbar &nbsp;dengan dukungan Siska Supporting Program-Red Meat Cattle Partnership (SSP-RMCP) melakukan penilaian kesiapan lokasi<br style="box-sizing: border-box;" />Pusat Pelatihan yang rencananya berada di lokasi &nbsp;Koperasi Landak Sapi Mandiri, Desa Tonang, Kec. Sengah Temila Kab. Landak.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Koperasi tersebut merupakan salah satu klaster SISKA Kalbar yang berada tepat di sentra Kalbar. Sehingga ke depannya akan mudah dijangkau oleh<br style="box-sizing: border-box;" />klaster Siska lain, baik yang berada di Wilayah Bagian Utara, pesisir barat dan Selatan Kalbar untuk mengikuti pelatihan adopsi teknologi Siska<br style="box-sizing: border-box;" />di lokasinya masing-masing.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Terkait regulasi Siksa, pemerintah telah hadir melalui Permentan NO. 105 Tahun 2014, tentang integrasi usaha perkebunan kelapa sawit dengan<br style="box-sizing: border-box;" />usaha budidaya sapi potong. &nbsp;Kemudian ada Inpres No. 6 Tahun 2019 tentang RAN-KSB.&nbsp;</p>

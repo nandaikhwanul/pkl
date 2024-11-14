@@ -1,0 +1,7 @@
+---
+author: disbunnak
+title: "Cadangan jagung pemerintah jaga stabiliasasi pasokan untuk pakan ternak"
+date: 2024-03-12 06:34:01
+thumbnail: /Berita/thumbnails/compressed_DjyQ7iIv15IzVL9gIn5qBJbENNwkaZWP0ZjQqRyS.jpg
+---
+<p><img src="/images/tAPGIV4UEcHKMlbrWEAb.jpeg" alt="" width="1366" height="1025" />Kepala Dinas Perkebunan dan Peternakan Provinsi Kalimantan Barat (Kalbar), Heronimus Hero mewakili Penjabat Gubernur Provinsi Kalbar menyerahkan secara langsung Cadangan Jagung Pemerintah (CJP) dalam rangka stabilisasi pasokan dan harga jagung untuk peternak mandiri di Singkawang<br /><br />"Penyaluran CJP ini merupakan upaya untuk mengendalikan inflasi telur dan daging ayam di mana memang upaya Pemerintah bersinergi dari pemerintah pusat, provinsi dan kabupaten atau kota di Kalbar," ujarnya di Kantor Bulog Kota Singkawang, Senin (22/01/2024).<br /><br />Ia menjelaskan bahwa dengan harga CJP yang relatif murah tersebut bisa berpengaruh terhadap penurunan atau stabilisasi harga produk-produk ternak khususnya telur dan daging ayam.<br /><br />"Sehingga bisa membantu Kalbar untuk menjaga stabilitas inflasi khususnya untuk komoditi ternak yaitu telur dan daging ayam," kata dia.<br /><br />Ia berharap industri peternakan di Kalbar terus maju sehingga pasokan baik daging maupun telur ayam bisa terus terpenuhi.<br /><br />"Kebutuhan daging ayam di Kalbar capai 5.235 ton per tahun. Sedangkan telur ayam 55.756 ton per tahun," jelas dia.</p>

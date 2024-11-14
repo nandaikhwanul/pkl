@@ -1,0 +1,8 @@
+---
+author: disbunnak
+title: "Disbunnak Kalbar monitoring pabrik pengelolaan karet di KKR"
+date: 2024-09-28
+thumbnail: /Berita/thumbnails/compressed_dWMNJz0dPClePfY83svjK8Un5bKvongvvAdjCHVJ.jpg
+---
+<p><img src="/images/cxqCPcdUC69LcHKVR0rG.jpeg" width="640" height="480" alt="" /></p>
+<p>Kepala Dinas Perkebunan dan Peternakan (Disbunnak) Provinsi Kalbar Heronimus Hero&nbsp; bersama Head of Rural Development and Agriculture Department (G500, GIZ HQ, Germany), Mr.Ralf Sanftenberg, melakukan monitoring pabrik pengolahan karet di PT. Bintang Borneo Persada, Kabupaten Kubu Raya (KKR).<br /><br />"Kegiatan monitoring ini untuk melihat&nbsp; rantai nilai komoditas karet," ujar Kadisbunnak Kalbar, Heronimus Hero, Kamis (28 Oktober 2024).<br /><br />Ia menjelaskan bahwa dengan kapasitas produksi sekitar 3 metrik ton per bulan, PT Bintang Borneo Persada memproduksi crumb Rubber SIR 20, SIR 10 yang menjadi bahan baku untuk industri pabrik ban seperti Bridgestone, Dunlop, Yokohama dan Continental.<br /><br />"Pabrik sudah menerapkan ketelusuran bahan baku karet yang mematuhi dengan undang - undang anti Deforestasi Uni Eropa (EUDR)," jelas dia.<br /><br />Menurutnya, kekurangan bahan baku bokar menjadi salah satu permasalahan yang sedang dihadapi oleh industri pengolahan karet di Kalbar.<br /><br />"Oleh karena itu dari 3000 metrik ton kapasitas produksi, pabrik hanya mampu memproduksi 2000/metrik ton per bulan. Sebanyak 10 persen bahan baku bahan harus di impor dari Afrika seperti Ghana dan Pantai Gading," ucap dia.</p>

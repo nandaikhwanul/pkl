@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Kadisbunak Kalbar monitoring peternak kambing di Sambas"
+date: 2023-12-01
+thumbnail: /Berita/thumbnails/xqpyU7wz13W8hJ3cak71ptcSTbPYr8SFYJLM6TdN.png
+---
+<p><img src="/images/kZ4mbLvwxS5tpRifJ3tl.png" alt="" width="1000" height="750" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Kepala Dinas Perkebunan dan Peternakan (Disbunnak) Provinsi Kalbar, Heronimus Hero melakukan monitoring dan pembinaan kelompok peternak kambing perah bantuan provinsi di Kabupaten Sambas.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Ia menjelaskan monitoring dan pembinaan tersebut&nbsp; menyasar kelompok peternak kambing perah yang menerima bantuan provinsi di Desa Gelik, Kecamatan Selakau Timur dan Kelompok Peternak Kambing di Desa Sekuntum, Kecamatan Tebas.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Untuk di Desa Gelik menyasar Kelompok Peternakan Sepakat 2 dan di Desa Sekuntum Kelompok Peternak Jaya Abadi," jelas dia.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Ia menambahkan bahwa di Kelompok Peternakan Sepakat sudah mengembangkan ternak kambing sejak 2019 dan sangat prospek untuk peningkatan ekonomi masyarakat. Saat ini populasi sudah ada sebanyak 140 ekor kambing termasuk di antaranya sebanyak 10 ekor kambing perah bantuan dari provinsi.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Sedangkan di Kelompok Peternak Jaya Abadi yang baru mulai 2022 tetapi populasi sampai saat ini sudah mencapai 40 ekor. Hal ini dikarenkan adanya dukungan pemerintah desa melalui anggaran dana desa untuk penguatan ketahanan pangan," jelas dia.</p>

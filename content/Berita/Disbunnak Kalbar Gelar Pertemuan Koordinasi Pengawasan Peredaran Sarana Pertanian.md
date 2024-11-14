@@ -1,0 +1,8 @@
+---
+author: disbunnak
+title: "Disbunnak Kalbar Gelar Pertemuan Koordinasi Pengawasan Peredaran Sarana Pertanian"
+date: 2024-05-01 09:46:47
+thumbnail: /Berita/thumbnails/compressed_ebQ9DnsHVqChTNEjC39RIuhcDDYuB4E6kXhQ6Dy8.jpg
+---
+<p><img src="/images/sdExde03UzS3gRgnDvHW.jpeg" alt="" width="1366" height="1025" /></p>
+<p>Dinas Perkebunan dan Peternakan (Disbunnak) Kalbar menggelar pertemuan koordinasi pengawasan peredaran sarana pertanian berupa dan pupuk dan pestisida di Kalbar.<br /><br />Kegiatan yang digelar pada 24 April 2024 tersebut dibuka oleh Kadisbunnak Provinsi Kalbar, Heronimus Hero. Dalam kesempatan itu ia mengatakan bahwa dengan kegiatan tersebut sebagai upaya peningkatan koordinasi, komunikasi dan informasi dalam upaya tersedianya sarana produksi yang mudah diakses dan terjangkau oleh pekebun.<br /><br />"Kemudian dengan kegiatan ini untuk memperkuat sinergi masing-masing sektor sesuai dengan tupoksi dalam melakukan upaya pengawasan&nbsp; dan peredaran pupuk dan pestisida," jelas dia.<br /><br />Adapun peserta yang hadir dalam kegiatan tersebut terdiri dari dinas yang membidangi perkebunan&nbsp; kabupaten/kota di Provinsi Kalbar, anggota Komisi Peredaran Pupuk dan Pestisida (KP3) Provinsi Kalbar, Kelompok Jabatan Fungsional Prasarana dan Sarana Pertanian dan Tim Dinas Perkebunan dan Peternakan Provinsi Kalbar.<br /><br />Sementara narasumber dari Direktorat Jenderal Prasarana dan Sarana Pertanian Kementan RI, Kesyahbandaran dan Otoritas Pelabuhan (KSOP) Pontianak dan Komisi Peredaran Pupuk dan Pestisida (KP3) Provinsi Kalbar.<br /><br /></p>

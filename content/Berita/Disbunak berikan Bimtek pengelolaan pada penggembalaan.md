@@ -1,0 +1,12 @@
+---
+author: disbunnak
+title: "Disbunak berikan Bimtek pengelolaan pada penggembalaan"
+date: 2023-03-30
+thumbnail: /Berita/thumbnails/sQYHndnoyrZ86hloU8pkur37PGZxaLEsDBV3Q2o4.jpg
+---
+<p><img src="/images/MK8myhnM7HLzTVzqWHXY.jpg" alt="" width="1000" height="450" /></p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Dinas Perkebunan dan Peternakan Provinsi (Disbunnak) memberikan Bimbingan Teknis (Teknis) pengelolaan pada penggembalaan selama dua hari yakni 10 -11 Maret 2023 yang menyasar Kelompok Kolam Semut, Desa Simpang Empat, Kecamatan Tangaran, Kabupaten Sambas.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Kegiatan ini bertujuan untuk memberikan bimbingan perbaikan manajemen ternak sapi yang dikembangbiakkan secara ekstensif di padang penggembalaan," ujar Kabid Peternakan, Disbunnak Kalbar, Novita Salim.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Ia menjelaskan bahwa lokasi penggembalaan tersebut dimulai sejak 2007 dan saat ini memerlukan upaya perbaikan kualitas genetik ternak dengan beberapa pendekatan di antaranya penggantian pejantan, penataan HPT berkualitas, penataan koloni ternak dan kelembagaan.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">"Dari kegiatan Bimtek, Disbunnak Provinsi Kalbar dan Dinas Perikanan, Peternakan dan Kesehatan Hewan Kabupaten Sambas, secara bertahap akan melakukan pendampingan dan penguatan agar kegiatan kelompok berkelanjutan karena lokasi memiliki vegetasi pastura yang baik serupa dengan NTT dan NTB yang merupakan provinsi sumber ternak sapi potong nasional," papar dia.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 20px; color: #777777; line-height: 24px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Dengan berkembangnya pembiakan sapi di lokasi Kelompok Kolam Semut diharapkan akan memperkaya potensi model peternakan sapi di Kalbar</p>
